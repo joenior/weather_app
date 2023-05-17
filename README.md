@@ -8,5 +8,5 @@ Display weather details on your current or any specific location.
   <img 
     width=40%
     height=40%
-    src="https://user-images.githubusercontent.com/101565812/169255578-c60cc40b-aafa-4dc0-9db2-30f9850efb74.jpg](https://i.ibb.co/98mDdNG/Hi-Shoot-20230517-114111.png" >
+    src="https://i.ibb.co/98mDdNG/Hi-Shoot-20230517-114111.png" >
 </p>
