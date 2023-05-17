@@ -1,6 +1,6 @@
-# simple weather app - flutter
+# weather app - flutter
 
-Display weather details on your current or any specific location.
+Aplikasi cuaca menggunakan flutter
 
 ## Screenshot
 
